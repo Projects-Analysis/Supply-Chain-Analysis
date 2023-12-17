@@ -12,42 +12,29 @@
 * Python 
 
 ## Imported Python Libraries for the Analysis 
-
-##### * import pandas as pd
-##### * import matplotlib.pyplot as plt
-##### * import plotly.express as px
-##### * import plotly.io as pio
-##### * import plotly.graph_objects as go
-##### * pio.templates.default = "plotly_white" 
-
+![Imported Library](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/b9f4b13e-e15f-4ff0-84bf-d68516e03abc)
 
 ## Importing the Data into Python 
-##### data = pd.read_csv(r"C:\Users\User\supply-chain-data.csv") 
+![CSV Imported](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/d5ccaad5-6a62-4264-b61c-51bdcb95abb9)
 
 ## Checking the First 10 Rows of the Dataset
-
-##### data.head(10) 
+![head](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/e8fc74be-8981-4fff-9407-446af092dff6)
 ![Top 10 Rows](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/b2b7894d-cef6-4327-9b94-b48dc0bf1a5e) 
 
 ## Checking the Last 10 Rows of the Dataset 
-
-##### data.tail(10) 
+![tail](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/29ad79c8-ccac-4dbf-8c09-2d7dfa17fca1)
 ![Last 10 Rows](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/a4dff974-e4c1-4c16-9d88-8cdff82400ee) 
 
 ## Checking the Number of Rows and Columns in the Dataset
+![rows nd columns](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/ff2be588-aa7c-483c-8f01-bde51c732986)
 
-##### data.shape 
-###### (100, 24) 
 
 ## Let's have a Look at the Columns Headings 
-
-##### list(data.columns) 
+![columns](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/cc1823f7-7077-4a31-8657-0878f075303f)
 ![Columns Headings](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/81b1ff12-0ec0-43b0-a7bc-b7313249a026) 
 
 ## Checking the Dataset for Null Values
-##### null_values = data.isnull()
-​
-###### print(null_values)
+![null](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/85d83ed6-8551-4cb8-86a8-fb75cd820b35)
 ![Null Values 1](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/9c0e52a0-5b7d-49f7-998a-7a449e77897d)
 ![Null Values 2](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/9ee02c07-2e7d-45e7-acb7-03a0217db7c9) 
 
