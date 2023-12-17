@@ -63,7 +63,12 @@
 ## Let’s get started with Analyzing the Supply Chain by Looking at the Percentage of Sales by Product Category
 ![Product Category](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/5c9f7ddb-4285-4b52-84d9-86b379c7841a)
 ![Product Category 2](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/47a3880a-7fc2-4e56-943c-f1175c51e071)
-#### The chart above shows that 45% of the sales comes from skincare products, 29.5% from haircare, and 25.5% from cosmetics.
+#### The chart above shows that 45% of the sales come from skincare products, 29.5% from haircare, and 25.5% from cosmetics 
+
+## Relationship Between the Price of the Products and the Revenue Generated
+![Price and Revenue 1](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/c313d293-149f-4c94-ab93-5ed1a0e31677)
+![Price and Revenue 2](https://github.com/Projects-Analysis/Supply-Chain-Analysis/assets/149543175/14d09414-e187-452d-b22a-f82370d81437)
+#### The graph shows that skincare products have the highest revenue generated, followed by cosmetics and then haircare. This suggests that skincare products are the most popular and profitable product type. Thus, the company derives more revenue from skincare products and the higher the price of skincare products, the more revenue they generate.
 ​
 
 
