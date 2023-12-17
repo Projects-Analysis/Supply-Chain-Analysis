@@ -8,7 +8,8 @@
 
 ###### The target audience for this project is the management team of the cosmetics, haircare, and skincare company. The insights and recommendations from the project are intended to help the management team make informed decisions about its product quality, shipping costs, and distribution network. 
 
-
+## Tools Used For The Analysis
+* Python 
 
 ## Imported Python Libraries for the Analysis 
 
